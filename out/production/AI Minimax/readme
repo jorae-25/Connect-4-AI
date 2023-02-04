@@ -1,0 +1,16 @@
+/**Alvin Jorkey
+I have neither given nor received unauthorized aid on this program.
+**/
+
+1.One persistent bug I encoutered was my programming producing only
+a limited amount of states. I solved this by modifying my actions function
+also, I couldn't get a prune count but I solved this by creating a global static
+varialbe.
+
+2.I received help from myself and professor Kirlin.
+
+3. One series problem I encountered was figuring out the Eval function.
+
+4. I attempted to use the heuristic provided on the page.
+
+5. I enjoyed this project.
