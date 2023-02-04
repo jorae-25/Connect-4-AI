@@ -22,6 +22,7 @@ Transposition table has 7115 states.
 
 The tree was pruned 9004 times
 
+
 Neither player has a guaranteed win; game will end in tie with perfect play on both sides
 
 who plays first? 1=human, 2=computer: 1
